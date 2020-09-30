@@ -1,0 +1,16 @@
+.Homepage {
+    margin: 40px auto 40px;
+    width: 800px;
+}
+.Homepage img {
+    height: 500px;
+    width: 800px;
+    border-radius: 10px;
+}
+.homeText {
+    color: #ffd700;
+    font-size: 20px; 
+    font-weight: 700;
+    margin: 25px 25px;
+    text-align: justify;
+}

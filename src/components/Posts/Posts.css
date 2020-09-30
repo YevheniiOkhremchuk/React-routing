@@ -1,0 +1,79 @@
+.twPost {
+  width: 32%;
+  margin: 40px auto 20px;
+}
+.twitter-post {
+  margin-top: 20px;
+  border: 3px solid #2d3943bf;
+  padding: 13px;
+  display: flex;
+  justify-content: center;
+}
+ .avatar img {
+  width: 55px;
+  position: absolute;
+  border-radius: 55px;
+}
+.indent-left {
+  color: white;
+  flex-direction: column;
+  padding-left: 60px;
+  display: flex;
+}
+ .header {
+  flex-direction: column;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+ .inf-avatar {
+  align-items: center;
+  height: auto;
+  display: flex;
+ }
+ .inf-avatar h4 {
+  margin: 0;
+ }
+ .check {
+  width: 18px;
+  border-radius: 55px;
+  margin: 0px 5px;
+ }
+ .tick {
+  margin-left: 168px;
+  width: 15px;
+ }
+ .vader {
+   color: #808080;
+ }
+ .content-of-post {
+  display: flex;
+ }
+ .content-of-post p {
+  margin: 0px  0px;
+}
+ .post-image { 
+  display: flex;
+ }
+ .post-image img {
+  height: 250px;
+  width: 510px;
+  border-radius: 20px;
+ }
+ .footer{
+  margin-top: 10px;
+  margin-left: 5px;
+  display: flex;
+  font-size: 15px;
+  font-weight: bolder;
+ }
+ .info-footer {
+  width: 35%;
+  color: #808080;
+ }
+ .info-footer img {
+  margin-right: 15px;
+   }
+ .comment, .retweet, .like, .share {
+   width: 18px;
+   margin-top: 15px;
+ }

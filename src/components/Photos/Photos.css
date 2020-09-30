@@ -1,0 +1,27 @@
+.blockImg {
+    margin: 40px auto 40px;
+    width: 800px;
+}
+.blockInfo {
+    background-color: #7c0000;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+.userImg {
+    display: block;
+    margin: 20px auto;
+    max-height: 300px;
+}
+.userName {
+    font-size: 45px;
+    font-weight: 800;
+    color: gold;
+}
+.userText {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+    color: #47aaff;
+}

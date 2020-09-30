@@ -1,0 +1,17 @@
+.navHeader {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #918282;
+  height: 90px;
+}
+.menuPag {
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 900;
+  color: #1b2045;
+}
+.navHeader a.active {
+  color: #6c1e1e;
+}
